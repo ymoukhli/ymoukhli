@@ -40,4 +40,3 @@
 <br />
 <br />
 <br />
-https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png
