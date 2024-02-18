@@ -24,7 +24,7 @@
 
 [<img width="40px" align="left" src="https://img.stackshare.io/service/25599/default_c6db7125f2c663e452ba211df91b2ced3bb7f0ff.png" />](https://tanstack.com/query/latest/)
 
-[<img width="30px" height="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />](https://tailwindcss.com/)
+[<img width="30px" height="40px" align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" />](https://tailwindcss.com/)
 
 [<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />](https://expressjs.com/)
 
