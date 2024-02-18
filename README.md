@@ -16,7 +16,7 @@
 
 [<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />](https://nextjs.org/)
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />](https://nestjs.com/)
+[<img width="40px" align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png" />](https://nestjs.com/)
 
 [<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />](https://graphql.org/)
 
@@ -40,3 +40,4 @@
 <br />
 <br />
 <br />
+https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png
