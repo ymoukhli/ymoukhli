@@ -1,42 +1,128 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/ymoukhli)
+<div align="center">
 
-<h2>Languages and Tools:</h2>
+# Youssef Moukhlis
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org)
+**Full Stack Developer — React/Next.js & Node/NestJS**
+Crafting exceptional digital experiences with a focus on clean code, performance, and collaboration.
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](https://www.javascript.com/)
+[🌐 Portfolio](https://www.moukhlis.com/) • [📄 Resume (PDF)](https://www.moukhlis.com/resume.pdf) • [✉️ Email](mailto:ymoukhli.1337@gmail.com)
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />](https://html5.org/)
+</div>
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />](https://www.w3.org/Style/CSS/Overview.en.html)
+---
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />](https://nodejs.org/en)
+## About Me
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](https://react.dev/)
+I'm a Full Stack Developer with 3+ years of experience specializing in **React.js**/**Next.js** on the front‑end and **Node.js/NestJS** on the back‑end. I build responsive, high‑performance web apps and integrate modern tooling across analytics, CMS, and AI services.
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />](https://nextjs.org/)
+* **Clean Code** — maintainable, well‑tested components and APIs
+* **Performance** — Core UX metrics and loading strategies top of mind
+* **Collaboration** — partner closely with design/analytics to ship business value
 
-[<img width="40px" align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png" />](https://nestjs.com/)
+---
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />](https://graphql.org/)
+## Experience
 
-[<img width="60px" height="40px" align="left" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" />](https://www.prisma.io/)
+### Full Stack Developer — SQLI · **Unibail‑Rodamco‑Westfield**
 
-[<img width="40px" align="left" src="https://img.stackshare.io/service/25599/default_c6db7125f2c663e452ba211df91b2ced3bb7f0ff.png" />](https://tanstack.com/query/latest/)
+**Dec 2024 – Present · Rabat**
 
-[<img width="30px" height="40px" align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" />](https://tailwindcss.com/)
+* Generated **schema markup using OpenAI API** for better search visibility and rich results.
+* Built an **auto‑updating dynamic sitemap** and targeted SEO strategies.
+* Developed a **custom Contentful app** for automated data import.
+* Launched a localized U.S. market site; streamlined Contentful workflows and refactored legacy code.
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />](https://expressjs.com/)
+**Tech:** Node.js, Next.js, TypeScript, Contentful, OpenAI API, SEO, tRPC, GraphQL
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />](https://redis.io/)
+---
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://github.com/)
+### Full Stack Developer — SQLI · **Nespresso (Toubkal team)**
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />](https://www.docker.com/)
+**Nov 2024 – Dec 2024 · Rabat**
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />](https://www.learn-c.org/)
+* Contributed to a progressive **registration flow** and redesigned the **personal info** page to new UI guidelines.
+* Integrated an **Identity SDK** and improved analytics with **GA4** + error tracking.
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />](https://en.cppreference.com/w/)
-<br />
-<br />
-<br />
+**Tech:** React, Angular, Identity SDK, GA4, Storybook
+
+---
+
+### Full Stack Developer — SQLI · **Nespresso (Evolution Maintenance)**
+
+**Sep 2022 – Nov 2024 · Rabat**
+
+* Led knowledge transfer for juniors; delivered new features from detailed analyses.
+* Partnered with UX to improve site UX and with Analytics to strengthen tracking.
+* Enhanced **parcel order tracking**, migrated **JSP → React**, and built a documented **Storybook**.
+
+**Tech:** React, JSP, Storybook, Analytics, jQuery, Java, Spring Boot, PostgreSQL
+
+---
+
+## Featured Projects
+
+### 🧩 Maze Generator
+
+A performant React app showcasing recursive backtracking and memoized rendering.
+
+**Tech:** React, JavaScript, Canvas API, Algorithms
+**Live:** [https://mazegen.moukhlis.com](https://mazegen.moukhlis.com)
+**Code:** [https://github.com/ymoukhli/mazeGen](https://github.com/ymoukhli/mazeGen)
+
+---
+
+### 🤖 AI Image Generator (genusingai)
+
+Prompt‑based AI image generation with gallery, downloads, and sharing. Includes **Paddle credits**, **PostgreSQL** persistence, and a **NestJS** backend.
+
+**Tech:** NestJS, TypeScript, PostgreSQL, Paddle, Tailwind CSS, Gatsby, OpenAI, R2
+**Live:** [https://genusingai.com](https://genusingai.com)
+
+---
+
+### 🔥 Tinder‑style App (featured)
+
+A complete UX with real‑time interactions and a modern app‑router architecture.
+
+**Tech:** React, Node.js, MongoDB, Socket.io, Express
+
+---
+
+### ✅ Task Management App
+
+Real‑time collaboration with drag‑and‑drop and team features.
+
+**Tech:** React, Firebase, Material‑UI, Realtime DB
+
+> More projects and write‑ups on my portfolio → **[https://www.moukhlis.com/](https://www.moukhlis.com/)**
+
+---
+
+## Skills & Tools
+
+**Frontend:** Next.js, React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+**Backend:** Node.js, NestJS, REST APIs, GraphQL, PostgreSQL, MongoDB
+**CMS & SEO:** Contentful, Dynamic sitemaps, Schema markup, SEO
+**AI & Automation:** OpenAI API integrations, Prompt pipelines
+**Analytics & Payments:** GA4, GTM, Paddle
+**DevOps & Hosting:** Git, CI/CD, Docker, Vercel, GCP
+**Collaboration:** Storybook, Figma, Design systems
+
+---
+
+## Contact
+
+* **Email:** [ymoukhli.1337@gmail.com](mailto:ymoukhli.1337@gmail.com)
+* **Location:** Rabat, Morocco
+* **Portfolio:** [https://www.moukhlis.com/](https://www.moukhlis.com/)
+
+If you’d like to collaborate or have an opportunity in mind, feel free to reach out.
+
+---
+
+<div align="center">
+
+> *“Building reliable, user‑centered software with pragmatic engineering and a designer’s eye.”*
+
+</div>
+
