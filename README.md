@@ -13,7 +13,7 @@ Crafting exceptional digital experiences with a focus on clean code, performance
 
 ## About Me
 
-I'm a Full Stack Developer with 3+ years of experience specializing in **React.js**/**Next.js** on the front‑end and **Node.js/NestJS** on the back‑end. I build responsive, high‑performance web apps and integrate modern tooling across analytics, CMS, and AI services.
+I'm a Full Stack Developer with 4+ years of experience specializing in **React.js**/**Next.js** on the front‑end and **Node.js/NestJS** on the back‑end. I build responsive, high‑performance web apps and integrate modern tooling across analytics, CMS, and AI services.
 
 * **Clean Code** — maintainable, well‑tested components and APIs
 * **Performance** — Core UX metrics and loading strategies top of mind
@@ -21,18 +21,17 @@ I'm a Full Stack Developer with 3+ years of experience specializing in **React.j
 
 ---
 
-## Experience
-
-### Full Stack Developer — SQLI · **Unibail‑Rodamco‑Westfield**
-
+### Full Stack Developer — SQLI · Unibail‑Rodamco‑Westfield
 **Dec 2024 – Present · Rabat**
 
-* Generated **schema markup using OpenAI API** for better search visibility and rich results.
-* Built an **auto‑updating dynamic sitemap** and targeted SEO strategies.
-* Developed a **custom Contentful app** for automated data import.
-* Launched a localized U.S. market site; streamlined Contentful workflows and refactored legacy code.
+- Drove **advanced SEO strategies** including structured data, metadata optimization, and targeted content architecture for improved search visibility and rich results.
+- Built an **auto‑updating dynamic sitemap** aligned with crawl budget best practices to maximize indexation.
+- Optimized **loading performance** through code splitting, lazy loading, and asset optimization, achieving significant Core Web Vitals improvements.
+- Developed a **custom Contentful app** for automated data import, streamlining editorial workflows.
+- Launched a localized U.S. market site and refactored legacy code for scalability and maintainability.
+- **Mentored junior developers**, conducting code reviews and sharing best practices across the team.
 
-**Tech:** Node.js, Next.js, TypeScript, Contentful, OpenAI API, SEO, tRPC, GraphQL
+**Tech:** Node.js · Next.js · TypeScript · Contentful · OpenAI API · SEO · tRPC · GraphQL
 
 ---
 
@@ -75,7 +74,7 @@ A performant React app showcasing recursive backtracking and memoized rendering.
 
 Prompt‑based AI image generation with gallery, downloads, and sharing. Includes **Paddle credits**, **PostgreSQL** persistence, and a **NestJS** backend.
 
-**Tech:** NestJS, TypeScript, PostgreSQL, Paddle, Tailwind CSS, Gatsby, OpenAI, R2
+**Tech:** NestJS, TypeScript, PostgreSQL, Stripe, Tailwind CSS, Gatsby, OpenAI, R2
 **Live:** [https://genusingai.com](https://genusingai.com)
 
 ---
