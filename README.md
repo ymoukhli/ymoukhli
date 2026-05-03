@@ -100,11 +100,17 @@ Real‑time collaboration with drag‑and‑drop and team features.
 ## Skills & Tools
 
 **Frontend:** Next.js, React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+
 **Backend:** Node.js, NestJS, REST APIs, GraphQL, PostgreSQL, MongoDB
+
 **CMS & SEO:** Contentful, Dynamic sitemaps, Schema markup, SEO
+
 **AI & Automation:** OpenAI API integrations, Prompt pipelines
+
 **Analytics & Payments:** GA4, GTM, Stripe
+
 **DevOps & Hosting:** Git, CI/CD, Docker, Vercel, GCP
+
 **Collaboration:** Storybook, Figma, Design systems
 
 ---
