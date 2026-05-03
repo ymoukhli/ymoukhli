@@ -72,7 +72,7 @@ A performant React app showcasing recursive backtracking and memoized rendering.
 
 ### 🤖 AI Image Generator (genusingai)
 
-Prompt‑based AI image generation with gallery, downloads, and sharing. Includes **Paddle credits**, **PostgreSQL** persistence, and a **NestJS** backend.
+Prompt‑based AI image generation with gallery, downloads, and sharing. Includes **Stripe credits**, **PostgreSQL** persistence, and a **NestJS** backend.
 
 **Tech:** NestJS, TypeScript, PostgreSQL, Stripe, Tailwind CSS, Gatsby, OpenAI, R2
 **Live:** [https://genusingai.com](https://genusingai.com)
@@ -103,10 +103,13 @@ Real‑time collaboration with drag‑and‑drop and team features.
 **Backend:** Node.js, NestJS, REST APIs, GraphQL, PostgreSQL, MongoDB
 **CMS & SEO:** Contentful, Dynamic sitemaps, Schema markup, SEO
 **AI & Automation:** OpenAI API integrations, Prompt pipelines
-**Analytics & Payments:** GA4, GTM, Paddle
+**Analytics & Payments:** GA4, GTM, Stripe
 **DevOps & Hosting:** Git, CI/CD, Docker, Vercel, GCP
 **Collaboration:** Storybook, Figma, Design systems
 
+---
+## LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/ymoukhli?theme=dark&font=Nunito&ext=heatmap)
 ---
 
 ## Contact
